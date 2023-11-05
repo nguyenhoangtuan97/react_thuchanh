@@ -13,8 +13,8 @@ import TestContext from './containers/TestContext';
 import Button from './containers/Button';
 function App() {
   const user = {
-    username: 'Huynh Anh Tuan',
-    address: 'Vinh Long',
+    username: 'Nguyen Hoang Tuan',
+    address: 'HCM',
     age: 22,
   };
   const isLogin = true;
